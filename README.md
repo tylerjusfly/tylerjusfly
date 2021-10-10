@@ -1,21 +1,21 @@
-### Hi there 👋
-
 ### Hi there, I'm tylerjusfly 👋
 
--I am a second year computer science student from Brazil, currently working at SPC Brasil  as a Software Developer Intern.
+-I am a student of tiidelab cohort 3 lagos, currently working on an e-commerce project and also learning how to lead.
 <br>
--I have a passion for learning and developing new skills related to programming and computer science.
+-I have a passion for tech, cybersecurity, researching and learning new stuffs.
 <br>
--On the path to become a Wizard Programmer 🧙🏽‍♂️
-
-
-<img align="right" alt="GIF" src="https://media3.giphy.com/media/iGlFO51WE0Dmg/giphy.gif?raw=true" width="350" height="218" />
+-And i'm on the path to become the greatest backend engineer 🧙🏽‍♂️
 
 <hr>
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tylerjusfly&layout=compact&count_private=true)
+## Some of my stats :bar_chart:
 
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=tylerjusfly&count_private=true&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=tylerjusfly&show_icons=true&theme=radical&include_all_commits=true">
+
+<br>
+
+
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tylerjusfly&layout=compact&count_private=true)
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=tylerjusfly&hide_border=true)
 
