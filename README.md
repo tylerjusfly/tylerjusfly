@@ -17,5 +17,7 @@
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tylerjusfly&layout=compact&count_private=true)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tylerjusfly&show_icons=true&hide_border=true&theme=dark&repo=JokeGenerator)](https://github.com/tylerjusfly/JokeGenerator)
+
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=tylerjusfly&hide_border=true)
 
