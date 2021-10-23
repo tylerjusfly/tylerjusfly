@@ -1,6 +1,6 @@
 <h1>Hi There, I'm tylerjusfly <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
--I am a student of tiidelab cohort 3 lagos, currently working on an e-commerce project and also learning how to lead.
+-I am a student of TIIDELab Cohort 3 lagos, currently working on an e-commerce project and also learning how to lead.
 <br>
 -I have a passion for tech, cybersecurity, researching and learning new stuffs.
 <br>
