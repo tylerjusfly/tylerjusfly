@@ -19,5 +19,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tylerjusfly&show_icons=true&hide_border=true&theme=dark&repo=JokeGenerator)](https://github.com/tylerjusfly/JokeGenerator)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tylerjusfly&show_icons=true&hide_border=true&theme=dark&repo=reddify)](https://github.com/tylerjusfly/reddify)
+
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=tylerjusfly&hide_border=true)
 
