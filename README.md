@@ -8,9 +8,12 @@
 
 <hr>
 
-## Some of my stats :bar_chart:
+## Throphy Representation
 
-<img src="https://github-readme-stats.vercel.app/api?username=tylerjusfly&show_icons=true&theme=radical&include_all_commits=true">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tylerjusfly" alt="codernamedhendrick" /></a> </p>
+
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=tylerjusfly&show_icons=true&theme=radical&include_all_commits=true"> -->
 
 <br>
 
