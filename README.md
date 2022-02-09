@@ -20,8 +20,7 @@
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tylerjusfly&layout=compact&count_private=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tylerjusfly&show_icons=true&hide_border=true&theme=dark&repo=
-auth-googleUser)](https://github.com/tylerjusfly/auth-googleUser)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tylerjusfly&show_icons=true&hide_border=true&theme=dark&repo=auth-googleUser)](https://github.com/tylerjusfly/auth-googleUser)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tylerjusfly&show_icons=true&hide_border=true&theme=dark&repo=reddify)](https://github.com/tylerjusfly/reddify)
 
