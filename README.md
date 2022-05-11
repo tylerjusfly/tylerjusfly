@@ -1,23 +1,20 @@
 <h1 align="center"> Hi There, I'm tylerjusfly <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
--I am an alumni of TIIDELab Cohort 3, worked on an e-commerce project and also served as a teamLead.
-<br>
--I have a passion for tech, cybersecurity, researching and learning new stuffs.
-<br>
--And i'm on the path to become the greatest backend engineer 🧙🏽‍♂️
-
 <h3 align="center">A passionate Backend developer from Nigeria</h3>
 
+- 🎓 I am an alumni of TIIDELab Cohort 3, worked on an e-commerce project and also served as a teamLead.
 
 - 🌱 I’m currently learning **TYPESCRIPT and DATABASE ENGINEERING**
 
-- 👯 I’m looking to collaborate with [other developers or frontend developers](Just to make magic together)
+- 👯 I’m looking to collaborate with other developers or frontend developers and make magic together
 
-- 💬 Ask me about **NodeJs and Javascript as a whole**
+- 💬 Ask me about **NodeJs and Javascript and Typescript**
+
+- 🧙🏽‍♂️ And i'm on the path to become the greatest backend engineer 🧙🏽‍♂️
 
 - 📫 How to reach me **tylerjusfly1@gmail.com**
 
-- ⚡ Fun fact **I'm a basketball player and A Loveworld Minister**
+- ⚡ Fun fact **I'm a basketball player **
 
 <hr>
 
