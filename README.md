@@ -4,7 +4,7 @@
 
 - 🎓 I am an alumni of TIIDELab Cohort 3, worked on an e-commerce project and also served as a teamLead.
 
-- 🌱 I’m currently learning **TYPESCRIPT and DATABASE ENGINEERING**
+- 🌱 I’m currently learning **TYPESCRIPT and THE FUNDAMENTALS OF DATABASE ENGINEERING**
 
 - 👯 I’m looking to collaborate with other developers or frontend developers and make magic together
 
