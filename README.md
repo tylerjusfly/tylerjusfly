@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **tylerjusfly1@gmail.com**
 
-- ⚡ Fun fact **I Love Playing basketball player**
+- ⚡ Fun fact **I Love Playing basketball**
 
 <hr>
 
