@@ -18,34 +18,30 @@
 <hr>
 
 <h2 align="center" color="white">Paid Projects</h2>
-
 <div align="center">
 	<table>
 		<tr>
-			<!--project 1 -->
-			<td width="50%">
-				<h3 align="center" color="white">AnyBuy Ecommerce</h2>
+		<td width="50%">
+			<h3 align="center" color="white">AnyBuy Ecommerce</h2>
 				<div align="center" > 
 					<a href="https://anyby.herokuapp.com/">
 						<img src="https://user-images.githubusercontent.com/53145644/168254132-33df17d5-21d6-4e59-b9c9-84af5a4ddf54.png" alt="a site tracking COVID-19 statistics" height="200px" />
 					</a>
 					<br>
 					<br>
-					<p>
-                        <!--repo --> 
-						<a href='#'>
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
+				<p>
+                        <!--repo -->  <a href='#'>
+					<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+				      </a>  
                         <!--live site --> 
-						<a href="https://anyby.herokuapp.com/">
-							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
-						</a>	
-					</p>
-					<p><strong>Node/ExpressJs, MySQL, PHP</strong> - an ecommerce app that lets user purchase non physical products</p>
-				</div>
-			</td>
-    </tr>
-			
+					<a href="https://anyby.herokuapp.com/">
+						<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+					</a>	
+				</p>
+				<p><strong>Node/ExpressJs, MySQL, PHP</strong> - an ecommerce app that lets user purchase non physical products</p>
+			</div>
+		</td>
+	 	<tr>
 	</table>
     </div>
 
