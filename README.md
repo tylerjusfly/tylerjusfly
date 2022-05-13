@@ -17,7 +17,7 @@
 
 <hr>
 
-<h2 align="center" color="white">Paid Projects</h2>
+<h2 align="center" color="white">Projects I Have Worked On</h2>
 <div align="center">
 	<table>
 		<tr>
@@ -45,21 +45,21 @@
 				<td width="40%">
 			<h3 align="center" color="white">Food Library</h2>
 				<div align="center" > 
-					<a href="https://anyby.herokuapp.com/">
-						<img src="https://user-images.githubusercontent.com/53145644/168262555-cf7109fe-b034-4ed0-9ec5-25e7490b059f.gif" alt="foodlibarary" height="200px" />
+					<a href="https://github.com/tylerjusfly/azure-devto-hackathon">
+						<img src="https://user-images.githubusercontent.com/53145644/168263946-8af5dff9-92f6-444f-92b3-a0a0de96f05d.png" alt="foodlibarary" height="200px" />
 					</a>
 					<br>
 					<br>
 				<p>
-                        <!--repo -->  <a href='#'>
+                        <!--repo -->  <a href='https://github.com/tylerjusfly/azure-devto-hackathon'>
 					<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 				      </a>  
                         <!--live site --> 
-					<a href="https://anyby.herokuapp.com/">
+					<a href="#">
 						<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
 					</a>	
 				</p>
-				<p><strong>Node/ExpressJs, MySQL, PHP</strong> - an ecommerce app that lets user purchase non physical products</p>
+				<p><strong>Node/ExpressJs, PUG, Azure, BootStrap</strong> - Food Library, this app let's you add your favourite dishes to a database. and others can view , make research and try it out</p>
 			</div>
 		</td>
 	 	<tr>
