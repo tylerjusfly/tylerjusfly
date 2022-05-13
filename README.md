@@ -21,11 +21,32 @@
 <div align="center">
 	<table>
 		<tr>
-		<td width="50%">
+		<td width="40%">
 			<h3 align="center" color="white">AnyBuy Ecommerce</h2>
 				<div align="center" > 
 					<a href="https://anyby.herokuapp.com/">
-						<img src="https://user-images.githubusercontent.com/53145644/168254132-33df17d5-21d6-4e59-b9c9-84af5a4ddf54.png" alt="a site tracking COVID-19 statistics" height="200px" />
+						<img src="https://user-images.githubusercontent.com/53145644/168262555-cf7109fe-b034-4ed0-9ec5-25e7490b059f.gif" alt="anybuy gif" height="200px" />
+					</a>
+					<br>
+					<br>
+				<p>
+                        <!--repo -->  <a href='#'>
+					<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+				      </a>  
+                        <!--live site --> 
+					<a href="https://anyby.herokuapp.com/">
+						<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+					</a>	
+				</p>
+				<p><strong>Node/ExpressJs, MySQL, PHP</strong> - an ecommerce app that lets user purchase non physical products</p>
+			</div>
+		</td>
+             <!-- Second tab -->
+				<td width="40%">
+			<h3 align="center" color="white">Food Library</h2>
+				<div align="center" > 
+					<a href="https://anyby.herokuapp.com/">
+						<img src="https://user-images.githubusercontent.com/53145644/168262555-cf7109fe-b034-4ed0-9ec5-25e7490b059f.gif" alt="foodlibarary" height="200px" />
 					</a>
 					<br>
 					<br>
@@ -46,21 +67,14 @@
     </div>
 
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=tylerjusfly&show_icons=true&theme=radical&include_all_commits=true"> -->
+
 
 <br>
 
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tylerjusfly&layout=compact&count_private=true)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tylerjusfly&show_icons=true&hide_border=true&theme=dark&repo=auth-googleUser)](https://github.com/tylerjusfly/auth-googleUser)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tylerjusfly&show_icons=true&hide_border=true&theme=dark&repo=reddify)](https://github.com/tylerjusfly/reddify)
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=tylerjusfly&hide_border=true)
-
-<!-- ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
-
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tylerjusfly&layout=compact&count_private=true)
 
 
 
