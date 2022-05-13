@@ -59,7 +59,7 @@
 						<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
 					</a>	
 				</p>
-				<p><strong>Node/ExpressJs, PUG, Azure, BootStrap</strong> - Food Library, this app let's you add your favourite dishes to a database. and others can view , make research and try it out</p>
+				<p><strong>Node/ExpressJs, PUG, Azure, BootStrap, MongoDb</strong> - Food Library, this app let's you add your favourite dishes to a database. and others can view , make research and try it out</p>
 			</div>
 		</td>
 	 	<tr>
