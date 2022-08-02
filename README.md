@@ -55,7 +55,7 @@
 					<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 				      </a>  
                         <!--live site --> 
-					<a href="#">
+					<a href="https://food-library-azure.herokuapp.com/">
 						<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
 					</a>	
 				</p>
