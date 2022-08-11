@@ -4,8 +4,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-MomohTaiwo-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/momoh-taiwo)](https://www.linkedin.com/in/momoh-taiwo) [![Twitter Badge](https://img.shields.io/badge/-@Tyler_Jusfly-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Tyler_Jusfly)](https://twitter.com/Tyler_Jusfly) <a target="_blank" href="mailto:tylerjusfly1@gmail.com"><img src="https://img.shields.io/badge/-TylerJusFly1-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> 
 
 
-- 🎓 I am an alumni of TIIDELab Cohort 3, worked on an e-commerce project and also served as a teamLead.
-
 - 🌱 I’m currently learning **TYPESCRIPT and THE FUNDAMENTALS OF DATABASE ENGINEERING**
 
 - 👯 I’m looking to collaborate with other developers or frontend developers and make magic together
