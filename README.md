@@ -19,6 +19,7 @@
 - ⚡ Fun fact **I Love Playing basketball**
 
 <hr>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vickymarz&theme=radical" alt="vickymarz" /></p>
 
 <p align="center">![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tylerjusfly&layout=compact&count_private=true)</p>
 
