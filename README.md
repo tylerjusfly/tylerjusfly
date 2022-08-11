@@ -21,15 +21,14 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
+
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![nodeJs](https://img.shields.io/badge/Nodejs-1572B6?style=for-the-badge&logo=nodejs&logoColor=white)
-![mongodb](https://img.shields.io/badge/mongodb-CC6699?style=for-the-badge&logo=mongodb&logoColor=white)
+![mongodb](https://img.shields.io/badge/mongodb-green?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 
