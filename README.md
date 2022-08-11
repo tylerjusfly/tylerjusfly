@@ -1,7 +1,7 @@
 <h1 align="center"> Hi There, I'm TylerJusFly <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-MomohTaiwo-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/momoh-taiwo)](https://www.linkedin.com/in/momoh-taiwo) [![Twitter Badge](https://img.shields.io/badge/-@Tyler_Jusfly-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Tyler_Jusfly)](https://twitter.com/Tyler_Jusfly)
+[![Linkedin Badge](https://img.shields.io/badge/-MomohTaiwo-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/momoh-taiwo)](https://www.linkedin.com/in/momoh-taiwo) [![Twitter Badge](https://img.shields.io/badge/-@Tyler_Jusfly-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Tyler_Jusfly)](https://twitter.com/Tyler_Jusfly) <a target="_blank" href="mailto:okorojiebube2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> 
 
 
 - 🎓 I am an alumni of TIIDELab Cohort 3, worked on an e-commerce project and also served as a teamLead.
