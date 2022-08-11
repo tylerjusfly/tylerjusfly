@@ -1,6 +1,9 @@
 <h1 align="center"> Hi There, I'm tylerjusfly <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 
+[![Linkedin Badge](https://img.shields.io/badge/-MomohTaiwo-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/momoh-taiwo)](https://www.linkedin.com/in/momoh-taiwo) [![Twitter Badge](https://img.shields.io/badge/-@Tyler_Jusfly-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Tyler_Jusfly)](https://twitter.com/Tyler_Jusfly)
+
+
 - 🎓 I am an alumni of TIIDELab Cohort 3, worked on an e-commerce project and also served as a teamLead.
 
 - 🌱 I’m currently learning **TYPESCRIPT and THE FUNDAMENTALS OF DATABASE ENGINEERING**
@@ -16,6 +19,8 @@
 - ⚡ Fun fact **I Love Playing basketball**
 
 <hr>
+
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tylerjusfly&layout=compact&count_private=true)
 
 <h2 align="center" color="white">Projects I Have Worked On</h2>
 <div align="center">
@@ -70,15 +75,6 @@
 
 
 <br>
-
-
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tylerjusfly&layout=compact&count_private=true)
-
-
-
-<h3 align="left">Connect with me:</h3>
-
-[![Linkedin Badge](https://img.shields.io/badge/-MomohTaiwo-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/momoh-taiwo)](https://www.linkedin.com/in/momoh-taiwo) [![Twitter Badge](https://img.shields.io/badge/-@Tyler_Jusfly-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Tyler_Jusfly)](https://twitter.com/Tyler_Jusfly)
 
 
 <h3 align="left">Languages and Tools:</h3>
