@@ -72,8 +72,6 @@
 <br>
 
 
-
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=tylerjusfly&hide_border=true)
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tylerjusfly&layout=compact&count_private=true)
 
 
