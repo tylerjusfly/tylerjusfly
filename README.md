@@ -78,9 +78,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-MomohTaiwo-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/momoh-taiwo)](https://www.linkedin.com/in/momoh-taiwo)
-
-[![Twitter Badge](https://img.shields.io/badge/-@Tyler_Jusfly-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/iambolajiayo)](https://twitter.com/Tyler_Jusfly)
+[![Linkedin Badge](https://img.shields.io/badge/-MomohTaiwo-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/momoh-taiwo)](https://www.linkedin.com/in/momoh-taiwo) [![Twitter Badge](https://img.shields.io/badge/-@Tyler_Jusfly-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Tyler_Jusfly)](https://twitter.com/Tyler_Jusfly)
 
 
 <h3 align="left">Languages and Tools:</h3>
