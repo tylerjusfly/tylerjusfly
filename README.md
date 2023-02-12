@@ -40,7 +40,14 @@
 
 <!-- <img align="center" alt="reactnative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> -->
 
+### Some technologies I like working with
 
+```json
+{
+  "frontend": ["react", "vue", "bootstrap|tailwindcss"],
+  "backend": ["typescript", "nodejs", "express|nest.js" "mongodb", "Mysql", "postgreSQL"],
+}
+```
 
 <h2 align="center" color="white">Projects I Have Worked On</h2>
 <div align="center">
