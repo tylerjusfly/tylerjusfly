@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-MomohTaiwo-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/momoh-taiwo)](https://www.linkedin.com/in/momoh-taiwo) [![Twitter Badge](https://img.shields.io/badge/-@Tyler_Jusfly-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Tyler_Jusfly)](https://twitter.com/Tyler_Jusfly) <a target="_blank" href="mailto:tylerjusfly1@gmail.com"><img src="https://img.shields.io/badge/-TylerJusFly1-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> 
 
 
-- 🌱 I’m currently challenging my self with **TYPESCRIPT, REACTJS, VUE AND IT'S STATE MANAGEMENT TECHNOLOGIES**
+- 🌱 I’m currently challenging my self with **TYPESCRIPT, REACTJS, NEXTJS AND TYPEORM WITH EXPRESSJS**
 
 - 👯 I’m looking to collaborate with other developers or frontend developers and make magic together
 
