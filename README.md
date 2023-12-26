@@ -54,10 +54,10 @@
 	<table>
 		<tr>
 		<td width="40%">
-			<h3 align="center" color="white">AnyBuy Ecommerce</h2>
+			<h3 align="center" color="white">Job athon</h2>
 				<div align="center" > 
-					<a href="https://anyby.herokuapp.com/">
-						<img src="https://user-images.githubusercontent.com/53145644/168262555-cf7109fe-b034-4ed0-9ec5-25e7490b059f.gif" alt="anybuy gif" height="200px" />
+					<a href="https://github.com/tylerjusfly/jobAthon">
+						<img src="https://github.com/tylerjusfly/CHF_TASKS/assets/53145644/1a3ebeac-4588-475f-b4ca-be6d27cbc6e4" alt="anybuy gif" height="200px" />
 					</a>
 					<br>
 					<br>
@@ -66,11 +66,11 @@
 					<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 				      </a>  
                         <!--live site --> 
-					<a href="https://anyby.herokuapp.com/">
+					<a href="https://main.d3lg8mtb40hvzw.amplifyapp.com/">
 						<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
 					</a>	
 				</p>
-				<p><strong>Node/ExpressJs, MySQL, PHP</strong> - an ecommerce app that lets user purchase non physical products</p>
+				<p><strong>ReactJs, MySQL, AWS</strong> - an job app that lets user search for gigs and apply for jobs</p>
 			</div>
 		</td>
              <!-- Second tab -->
