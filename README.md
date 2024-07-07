@@ -4,11 +4,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-MomohTaiwo-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/momoh-taiwo)](https://www.linkedin.com/in/momoh-taiwo) [![Twitter Badge](https://img.shields.io/badge/-@Tyler_Jusfly-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Tyler_Jusfly)](https://twitter.com/Tyler_Jusfly) <a target="_blank" href="mailto:tylerjusfly1@gmail.com"><img src="https://img.shields.io/badge/-TylerJusFly1-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> 
 
 
-- 🌱 I’m currently challenging my self with **TYPESCRIPT, REACTJS, NEXTJS AND TYPEORM WITH EXPRESSJS**
+- 🌱 I’m currently working on opensource projects,
 
 - 👯 I’m looking to collaborate with other developers or frontend developers and make magic together
 
-- 💬 Ask me about **NodeJs, Javascript, Typescript, React, Vue And Jest**
+- 💬 Ask me about **NodeJs, Javascript, Typescript, React, NextJS And Jest**
 
 - 🧙🏽‍♂️ And i'm on the path to become the greatest engineer 🧙🏽‍♂️
 
@@ -48,58 +48,5 @@
   "backend": ["typescript", "nodejs", "express|nest.js" "mongodb", "Mysql", "postgreSQL"],
 }
 ```
-
-<h2 align="center" color="white">Projects I Have Worked On</h2>
-<div align="center">
-	<table>
-		<tr>
-		<td width="40%">
-			<h3 align="center" color="white">Job athon</h2>
-				<div align="center" > 
-					<a href="https://github.com/tylerjusfly/jobAthon">
-						<img src="https://github.com/tylerjusfly/CHF_TASKS/assets/53145644/1a3ebeac-4588-475f-b4ca-be6d27cbc6e4" alt="anybuy gif" height="200px" />
-					</a>
-					<br>
-					<br>
-				<p>
-                        <!--repo -->  <a href='#'>
-					<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-				      </a>  
-                        <!--live site --> 
-					<a href="https://main.d3lg8mtb40hvzw.amplifyapp.com/">
-						<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
-					</a>	
-				</p>
-				<p><strong>ReactJs, MySQL, AWS</strong> - an job app that lets user search for gigs and apply for jobs</p>
-			</div>
-		</td>
-             <!-- Second tab -->
-				<td width="40%">
-			<h3 align="center" color="white">Food Library</h2>
-				<div align="center" > 
-					<a href="https://github.com/tylerjusfly/azure-devto-hackathon">
-						<img src="https://user-images.githubusercontent.com/53145644/168263946-8af5dff9-92f6-444f-92b3-a0a0de96f05d.png" alt="foodlibarary" height="200px" />
-					</a>
-					<br>
-					<br>
-				<p>
-                        <!--repo -->  <a href='https://github.com/tylerjusfly/azure-devto-hackathon'>
-					<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-				      </a>  
-                        <!--live site --> 
-					<a href="https://food-library-azure.herokuapp.com/">
-						<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
-					</a>	
-				</p>
-				<p><strong>Node/ExpressJs, PUG, Azure, BootStrap, MongoDb</strong> - Food Library, this app let's you add your favourite dishes to a database. and others can view , make research and try it out</p>
-			</div>
-		</td>
-	 	<tr>
-	</table>
-    </div>
-
-
-
-
 <br>
 
