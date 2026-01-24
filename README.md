@@ -6,9 +6,7 @@
 
 - 🌱 Building AI projects,
 
-- 👯 I’m looking to collaborate with other developers or frontend developers and make magic together
-
-- 💬 Ask me about **NodeJs, Javascript, Typescript, AI, NextJS And Jest**
+- 👯 I’m looking to collaborate with other developers and make magic together
 
 - 📫 How to reach me **tylerjusfly1@gmail.com**
 
